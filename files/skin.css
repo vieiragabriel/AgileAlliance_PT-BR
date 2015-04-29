@@ -1,0 +1,65 @@
+.jcarousel-skin-agile .jcarousel-container {
+    width: 960px;
+    height: 90px;
+}
+
+.jcarousel-skin-agile .jcarousel-direction-rtl {
+	direction: rtl;
+}
+
+.jcarousel-skin-agile .jcarousel-container-horizontal {
+    width: 960px;
+    height: 90px;
+}
+
+.jcarousel-skin-agile .jcarousel-container-vertical {
+    width: 960px;
+    height: 90px;
+}
+
+.jcarousel-skin-agile .jcarousel-clip-horizontal {
+    width: 960px;
+    height: 90px;
+}
+
+.jcarousel-skin-agile .jcarousel-clip-vertical {
+    width: 960px;
+    height: 90px;
+}
+
+.jcarousel-skin-agile .jcarousel-item {
+	width:120px;
+	max-height:90px;
+    text-align:center;
+    display:inline-block;
+    *display:inline;
+    zoom:1;
+    list-style:none;
+    vertical-align: middle;
+}
+
+.jcarousel-skin-agile .jcarousel-item img {
+    max-width: 120px;
+    max-height: 100%;
+    width:auto;
+    height:auto;
+}
+
+.jcarousel-skin-agile .jcarousel-item-horizontal {
+	margin-left: 20px;
+    margin-right: 20px;
+}
+
+.jcarousel-skin-agile .jcarousel-direction-rtl .jcarousel-item-horizontal {
+	margin-left: 20px;
+    margin-right: 20px;
+}
+
+.jcarousel-skin-agile .jcarousel-item-vertical {
+    margin-bottom: 0;
+}
+
+.jcarousel-skin-agile .jcarousel-item-placeholder {
+    background: #fff;
+    color: #000;
+}
